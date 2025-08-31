@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f6g9r/6Wf781PiRv4Vu831Ws2ZDA6QPcIwIDMEjG+g4=",
+  "Hash": "XeGj+1ZdRCGQ+DPuX7hhOPWRzOGZOzVLt3GznKu9nxQ=",
   "Source": "BA",
   "BasePath": "_content/BA",
   "Mode": "Default",
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\6f2e18a5-87fb-4749-bc60-624fe07858c9_CatWith-removebg.png"
+    },
+    {
+      "Identity": "C:\\Users\\volon\\Downloads\\Backup\\WinterX\\ba\\wwwroot\\uploads\\a171d68f-b54a-4574-bd3d-6889eb938123_witch's embrace.gif",
+      "SourceId": "BA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\volon\\Downloads\\Backup\\WinterX\\ba\\wwwroot\\",
+      "BasePath": "_content/BA",
+      "RelativePath": "uploads/a171d68f-b54a-4574-bd3d-6889eb938123_witch's embrace#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0lzancu75a",
+      "Integrity": "pJl5FDUWPEZIdg8th8vK8KPwAreCM+rsJuWZymVseBQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\a171d68f-b54a-4574-bd3d-6889eb938123_witch's embrace.gif"
     },
     {
       "Identity": "C:\\Users\\volon\\Downloads\\Backup\\WinterX\\ba\\wwwroot\\uploads\\aa5555e1-3aaa-4fda-8693-9aabc5e36996_download 1.png",
@@ -347,6 +368,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-XPlIErQ+Azr0EuAIXyGyfuQ3VCQBWmpjCglmx4npFqs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a171d68f-b54a-4574-bd3d-6889eb938123_witch's embrace.0lzancu75a.gif",
+      "AssetFile": "C:\\Users\\volon\\Downloads\\Backup\\WinterX\\ba\\wwwroot\\uploads\\a171d68f-b54a-4574-bd3d-6889eb938123_witch's embrace.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "338836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pJl5FDUWPEZIdg8th8vK8KPwAreCM+rsJuWZymVseBQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 01:44:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0lzancu75a"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/a171d68f-b54a-4574-bd3d-6889eb938123_witch's embrace.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pJl5FDUWPEZIdg8th8vK8KPwAreCM+rsJuWZymVseBQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a171d68f-b54a-4574-bd3d-6889eb938123_witch's embrace.gif",
+      "AssetFile": "C:\\Users\\volon\\Downloads\\Backup\\WinterX\\ba\\wwwroot\\uploads\\a171d68f-b54a-4574-bd3d-6889eb938123_witch's embrace.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "338836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pJl5FDUWPEZIdg8th8vK8KPwAreCM+rsJuWZymVseBQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 01:44:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pJl5FDUWPEZIdg8th8vK8KPwAreCM+rsJuWZymVseBQ="
         }
       ]
     },

@@ -24,11 +24,13 @@ public class GroupController : ControllerBase
 
         try
         {
+            Console.WriteLine($"Received CreateGroup request: Name={createGroupDto.Name}, Privacy={createGroupDto.Privacy}, MemberIds={string.Join(",", createGroupDto.MemberIds)}");
             var group = await _groupService.CreateGroupAsync(createGroupDto, userId.Value);
             return group == null ? BadRequest("Unable to create group") : Ok(group);
         }
         catch (Exception ex)
         {
+            Console.WriteLine($"Error creating group: {ex.Message}");
             return BadRequest($"Error creating group: {ex.Message}");
         }
     }

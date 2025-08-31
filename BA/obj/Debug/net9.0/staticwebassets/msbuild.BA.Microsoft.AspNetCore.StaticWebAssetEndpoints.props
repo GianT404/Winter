@@ -24,6 +24,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"smz14an1wb"},{"Name":"integrity","Value":"sha256-XPlIErQ\u002BAzr0EuAIXyGyfuQ3VCQBWmpjCglmx4npFqs="},{"Name":"label","Value":"_content/BA/uploads/6f2e18a5-87fb-4749-bc60-624fe07858c9_CatWith-removebg.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"138239"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022XPlIErQ\u002BAzr0EuAIXyGyfuQ3VCQBWmpjCglmx4npFqs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Jun 2025 06:29:52 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BA/uploads/a171d68f-b54a-4574-bd3d-6889eb938123_witch's embrace.0lzancu75a.gif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a171d68f-b54a-4574-bd3d-6889eb938123_witch's embrace.gif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0lzancu75a"},{"Name":"integrity","Value":"sha256-pJl5FDUWPEZIdg8th8vK8KPwAreCM\u002BrsJuWZymVseBQ="},{"Name":"label","Value":"_content/BA/uploads/a171d68f-b54a-4574-bd3d-6889eb938123_witch\u0027s embrace.gif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"338836"},{"Name":"Content-Type","Value":"image/gif"},{"Name":"ETag","Value":"\u0022pJl5FDUWPEZIdg8th8vK8KPwAreCM\u002BrsJuWZymVseBQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Jun 2025 01:44:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BA/uploads/a171d68f-b54a-4574-bd3d-6889eb938123_witch's embrace.gif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a171d68f-b54a-4574-bd3d-6889eb938123_witch's embrace.gif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pJl5FDUWPEZIdg8th8vK8KPwAreCM\u002BrsJuWZymVseBQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"338836"},{"Name":"Content-Type","Value":"image/gif"},{"Name":"ETag","Value":"\u0022pJl5FDUWPEZIdg8th8vK8KPwAreCM\u002BrsJuWZymVseBQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Jun 2025 01:44:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BA/uploads/aa5555e1-3aaa-4fda-8693-9aabc5e36996_download 1.ji755uwrs6.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\aa5555e1-3aaa-4fda-8693-9aabc5e36996_download 1.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

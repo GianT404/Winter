@@ -337,3 +337,4 @@ C:\Users\volon\Downloads\Backup\WinterX\ba\obj\Debug\net9.0\refint\BA.dll
 C:\Users\volon\Downloads\Backup\WinterX\ba\obj\Debug\net9.0\BA.pdb
 C:\Users\volon\Downloads\Backup\WinterX\ba\obj\Debug\net9.0\BA.genruntimeconfig.cache
 C:\Users\volon\Downloads\Backup\WinterX\ba\obj\Debug\net9.0\ref\BA.dll
+C:\Users\volon\Downloads\Backup\WinterX\ba\obj\Debug\net9.0\BA.sourcelink.json

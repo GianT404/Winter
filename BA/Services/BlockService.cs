@@ -165,10 +165,14 @@ public class BlockService : IBlockService
         {
             return await _context.Blocks.AnyAsync(b => 
                 b.BlockerUserId == userId && b.BlockedUserId == blockedUser);
-        }
-
-    public Task<bool> IsUserBlockedAsync(Guid checkerId, Guid targetUserId)
+        }    /// <summary>
+    /// Check if a user is blocked by the checker
+    /// </summary>
+    public async Task<bool> IsUserBlockedAsync(Guid checkerId, Guid targetUserId)
     {
-        throw new NotImplementedException();
+        return await _context.Blocks.AnyAsync(b => 
+            b.BlockerUserId == checkerId && 
+            b.BlockedUserId == targetUserId && 
+            b.Status == "Blocked");
     }
 }
