@@ -132,6 +132,7 @@ export const AuthLayout: React.FC<AuthLayoutProps> = ({
               <div className="text-center mb-6 md:mb-8">
                 <h2 className="text-2xl font-bold text-gray-900">WinterX</h2>
                 <p className="text-gray-600 mt-2">Đăng nhập để tiếp tục</p>
+                <p className="text-red-600 mt-2">Server đang bảo trì</p>
               </div>
 
               <div className="space-y-6">
