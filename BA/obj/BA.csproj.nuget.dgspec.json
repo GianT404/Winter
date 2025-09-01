@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\volon\\Downloads\\Backup\\WinterX\\ba\\BA.csproj": {}
+    "C:\\Users\\volon\\Downloads\\Backup\\WinterX\\BA\\BA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\volon\\Downloads\\Backup\\WinterX\\ba\\BA.csproj": {
+    "C:\\Users\\volon\\Downloads\\Backup\\WinterX\\BA\\BA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\volon\\Downloads\\Backup\\WinterX\\ba\\BA.csproj",
+        "projectUniqueName": "C:\\Users\\volon\\Downloads\\Backup\\WinterX\\BA\\BA.csproj",
         "projectName": "BA",
-        "projectPath": "C:\\Users\\volon\\Downloads\\Backup\\WinterX\\ba\\BA.csproj",
+        "projectPath": "C:\\Users\\volon\\Downloads\\Backup\\WinterX\\BA\\BA.csproj",
         "packagesPath": "C:\\Users\\volon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\volon\\Downloads\\Backup\\WinterX\\ba\\obj\\",
+        "outputPath": "C:\\Users\\volon\\Downloads\\Backup\\WinterX\\BA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\volon\\AppData\\Roaming\\NuGet\\NuGet.Config"
